@@ -37,6 +37,6 @@ def partition(alist,first,last):
 
    return rightmark
 
-alist = [54,26,93,17,77,31,44,55,20,77]
+alist = [54,26,93,1.7,7.7,31,-44,55,20,-77]
 quickSort(alist)
 print(alist)
